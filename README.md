@@ -44,9 +44,8 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
 | Cup             | 20,650  | 22,545  | 1,895      | Teddy Bear     | 4,793   | 6,432   | 1,639      |
 | Dining Table    | 15,714  | 16,569  |   -        |    -           |   -     |   -     |   -        |
 
-</div>
 
-<table style="width:100%; table-layout:fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse: collapse;" border="1">
   <thead>
     <tr>
       <th>Class Names</th>
