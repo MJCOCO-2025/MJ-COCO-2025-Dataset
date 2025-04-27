@@ -12,9 +12,8 @@ MJ-COCO-2025 is a modified version of the MS-COCO-2017 dataset, in which the ann
 The re-labeled MJ-COCO-2025 dataset demonstrates substantial improvements in annotation quality, with significant increases in several categories and minor corrections in a few due to previous over-annotations or misclassifications, as shown in Table 1 when compared to the original MS-COCO-2017 dataset.
 </p>
 
-Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
 <div align="center">
-
+Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
 <table style="width:100%; max-width:1200px; table-layout:fixed; border-collapse:collapse;" border="1">
   <thead>
     <tr>
