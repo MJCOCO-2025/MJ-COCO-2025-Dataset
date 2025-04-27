@@ -1,7 +1,5 @@
 # MJ-COCO-2025-Dataset
 
-# MJ-COCO-2025-Dataset
-
 ## About Dataset
 
 <p align="justify">
