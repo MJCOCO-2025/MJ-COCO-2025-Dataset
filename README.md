@@ -44,6 +44,7 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
 | Cow             | 8,147   | 8,990   | 843        | Surfboard      | 6,126   | 6,175   | 49         |
 | Cup             | 20,650  | 22,545  | 1,895      | Teddy Bear     | 4,793   | 6,432   | 1,639      |
 | Dining Table    | 15,714  | 16,569  |   -        |    -           |   -     |   -     |   -        |
+
 </div>
 
 <table style="width:100%; table-layout:fixed;">
