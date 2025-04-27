@@ -45,7 +45,7 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
 | Dining Table    | 15,714  | 16,569  |   -        |    -           |   -     |   -     |   -        |
 
 
-<div style="display:flex; justify-content:center;">
+<div align="center">
 
 <table style="width:100%; max-width:1200px; table-layout:fixed; border-collapse:collapse;" border="1">
   <thead>
