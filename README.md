@@ -17,8 +17,8 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
 <table style="width:100%; max-width:1200px; table-layout:fixed; border-collapse:collapse;" border="1">
   <thead>
     <tr>
-      <th>Class Names</th><th>MS-COCO</th><th>MJ-COCO</th><th>Difference</th>
-      <th>Class Names</th><th>MS-COCO</th><th>MJ-COCO</th><th>Difference</th>
+      <th>Class Names</th><th>MS&#8209;COCO</th><th>MJ&#8209;COCO</th><th>Difference</th>
+      <th>Class Names</th><th>MS&#8209;COCO</th><th>MJ&#8209;COCO</th><th>Difference</th>
     </tr>
   </thead>
   <tbody>
