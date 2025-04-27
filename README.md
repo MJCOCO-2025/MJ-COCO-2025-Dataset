@@ -13,7 +13,6 @@ The re-labeled MJ-COCO-2025 dataset demonstrates substantial improvements in ann
 </p>
 
 Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
-<div style="overflow-x:auto;">
 | Class Names     | MS-COCO | MJ-COCO | Difference | Class Names    | MS-COCO | MJ-COCO | Difference |
 |:----------------|:--------|:--------|:-----------|:---------------|:--------|:--------|:-----------|
 | Airplane        | 5,135   | 5,810   | 675        | Kite           | 9,076   | 15,092  | 6,016      |
