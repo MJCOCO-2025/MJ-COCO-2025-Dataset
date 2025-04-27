@@ -46,6 +46,31 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
 
 
 
+<table style="width:100%; table-layout:fixed;">
+  <thead>
+    <tr>
+      <th>Class Names</th>
+      <th>MS-COCO</th>
+      <th>MJ-COCO</th>
+      <th>Difference</th>
+      <th>Class Names</th>
+      <th>MS-COCO</th>
+      <th>MJ-COCO</th>
+      <th>Difference</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Airplane</td><td>5,135</td><td>5,810</td><td>675</td>
+      <td>Kite</td><td>9,076</td><td>15,092</td><td>6,016</td>
+    </tr>
+    <!-- Add other rows similarly -->
+  </tbody>
+</table>
+
+
+
+
 <div align="left">
   <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F26520677%2F6af38e16f7a313e3ad560dc88525f87c%2FPicture14.svg?generation=1745669512762612&alt=media" 
        alt="Comparative results between MS-COCO and MJ-COCO datasets" 
