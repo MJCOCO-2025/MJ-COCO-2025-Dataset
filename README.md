@@ -45,7 +45,9 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
 | Dining Table    | 15,714  | 16,569  |   -        |    -           |   -     |   -     |   -        |
 
 
-<table style="width:100%; table-layout:fixed; border-collapse: collapse;" border="1">
+<div style="display:flex; justify-content:center;">
+
+<table style="width:100%; max-width:1200px; table-layout:fixed; border-collapse:collapse;" border="1">
   <thead>
     <tr>
       <th>Class Names</th>
@@ -63,9 +65,46 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
       <td>Airplane</td><td>5,135</td><td>5,810</td><td>675</td>
       <td>Kite</td><td>9,076</td><td>15,092</td><td>6,016</td>
     </tr>
-    <!-- Add other rows similarly -->
+    <tr>
+      <td>Apple</td><td>5,851</td><td>19,527</td><td>13,676</td>
+      <td>Knife</td><td>7,770</td><td>6,697</td><td>-1,073</td>
+    </tr>
+    <tr>
+      <td>Backpack</td><td>8,720</td><td>10,029</td><td>1,309</td>
+      <td>Laptop</td><td>4,970</td><td>5,280</td><td>310</td>
+    </tr>
+    <tr>
+      <td>Banana</td><td>9,458</td><td>49,705</td><td>40,247</td>
+      <td>Microwave</td><td>1,673</td><td>1,755</td><td>82</td>
+    </tr>
+    <tr>
+      <td>Baseball Bat</td><td>3,276</td><td>3,517</td><td>241</td>
+      <td>Motorcycle</td><td>8,725</td><td>10,045</td><td>1,320</td>
+    </tr>
+    <tr>
+      <td>Baseball Glove</td><td>3,747</td><td>3,440</td><td>-307</td>
+      <td>Mouse</td><td>2,262</td><td>2,377</td><td>115</td>
+    </tr>
+    <tr>
+      <td>Bear</td><td>1,294</td><td>1,311</td><td>17</td>
+      <td>Orange</td><td>6,399</td><td>18,416</td><td>12,017</td>
+    </tr>
+    <tr>
+      <td>Bed</td><td>4,192</td><td>4,177</td><td>-15</td>
+      <td>Oven</td><td>3,334</td><td>4,310</td><td>976</td>
+    </tr>
+    <tr>
+      <td>Bench</td><td>9,838</td><td>9,784</td><td>-54</td>
+      <td>Parking Meter</td><td>1,285</td><td>1,355</td><td>70</td>
+    </tr>
+    <tr>
+      <td>Bicycle</td><td>7,113</td><td>7,853</td><td>740</td>
+      <td>Person</td><td>262,465</td><td>435,252</td><td>172,787</td>
+    </tr>
   </tbody>
 </table>
+
+</div>
 
 
 
