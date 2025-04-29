@@ -66,7 +66,7 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
 </div>
 
 ## Dataset Structure
-• The MJ-COCO dataset utilizes images sourced from the original [MS-COCO dataset](https://cocodataset.org/#home), which can be downloaded from the official MS-COCO website. The images themselves remain unchanged to maintain consistency with the original dataset.<br>
+• The MJ-COCO dataset utilizes images sourced from the original MS-COCO dataset, which can be downloaded from the official [MS-COCO website](https://cocodataset.org/#home). The images themselves remain unchanged to maintain consistency with the original dataset.<br>
 • The re-annotated JSON file, containing updated and refined annotations, can be find [Here](https://drive.google.com/file/d/1RPTBC0_H7PJjfMdBkFyTVo0m0dR7pXRc/view?usp=sharing).<br>
 • Annotation Format: JSON (standard COCO annotation format).<br>
 
