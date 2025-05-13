@@ -59,14 +59,15 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
   <img src="https://github.com/user-attachments/assets/b9a09e79-89ca-4e7f-b2e3-07c542e121e9" 
        alt="Comparative results between MS-COCO and MJ-COCO datasets" 
        width="860" height="350"/>
-  <p align="center">Figure: Visual comparison of MS-COCO-2017 and MJ-COCO-2025 datasets</p>
+  <p align="center">Figure 1: In MS-COCO dataset, all sheep are annotated with a single label. In MJ-COCO, each sheep is annotated separately for more accurate labeling. </p>p
 </div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/82e9fd65-7f29-4ed3-b1f5-df39611a099f" 
        alt="Comparative results between MS-COCO and MJ-COCO datasets" 
        width="860" height="350"/>
-  <p align="center">Figure: Visual comparison of MS-COCO-2017 and MJ-COCO-2025 datasets</p>
+  <p align="center">Figure 2: In MS-COCO dataset, some objects like a teddy bear were annotated multiple times, resulting in duplicate annotations. These errors were later corrected in the improved MJ-COCO version, which refined the labels for better accuracy.
+</p>
 </div>
 
 <div align="center">
