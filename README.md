@@ -69,10 +69,26 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
   <p align="center">Figure: Visual comparison of MS-COCO-2017 and MJ-COCO-2025 datasets</p>
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4f394cd2-969e-422b-8e5b-f2ccaab6c78a" 
+       alt="Comparative results between MS-COCO and MJ-COCO datasets" 
+       width="860" height="350"/>
+  <p align="center">Figure: Visual comparison of MS-COCO-2017 and MJ-COCO-2025 datasets</p>
+</div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/49f6e5f1-81d1-4cd6-ba78-cd2243b10076" 
+       alt="Comparative results between MS-COCO and MJ-COCO datasets" 
+       width="860" height="350"/>
+  <p align="center">Figure: Visual comparison of MS-COCO-2017 and MJ-COCO-2025 datasets</p>
+</div>
 
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d6797fbc-e5be-4916-aa0a-cad6e4f30465" 
+       alt="Comparative results between MS-COCO and MJ-COCO datasets" 
+       width="860" height="350"/>
+  <p align="center">Figure: Visual comparison of MS-COCO-2017 and MJ-COCO-2025 datasets</p>
+</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5c4bdf2c-2aa4-4c3d-9a57-ea8d6eab15b2" 
