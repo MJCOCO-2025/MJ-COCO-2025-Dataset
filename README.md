@@ -9,7 +9,7 @@ MJ-COCO-2025 is a modified version of the MS-COCO-2017 dataset, in which the ann
 
 ## Summary of Improvements:
 <p align="justify">
-TThe re-labeled MJ-COCO-2025 dataset exhibits notable improvements in annotation quality compared to the original MS-COCO-2017 dataset. As shown in Table 1, it includes substantial increases in categories such as previously missing annotations and group annotations. At the same time, the dataset has been refined by reducing annotation noise through the removal of duplicates, resolution of challenging or debatable cases, and elimination of non-existent object annotations.
+The re-labeled MJ-COCO-2025 dataset exhibits notable improvements in annotation quality compared to the original MS-COCO-2017 dataset. As shown in Table 1, it includes substantial increases in categories such as previously missing annotations and group annotations. At the same time, the dataset has been refined by reducing annotation noise through the removal of duplicates, resolution of challenging or debatable cases, and elimination of non-existent object annotations.
 </p>
 
 <div align="center">
