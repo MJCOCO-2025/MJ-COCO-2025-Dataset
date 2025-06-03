@@ -114,8 +114,9 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
 
 
 ## Citation Information
- • If you found this dataset useful, please cite this repository.
+ • If you found this dataset useful, please cite our Paper.
 
+Pseudo-Labeling Driven Refinement of Benchmark Object Detection Datasets via Analysis of Learning Patterns, Min Je Kim, Muhammad Munsif, Altaf Hussain, Hikmat Yar, and Sung Wook Baik, 2025, https://arxiv.org/abs/2506.00997.
 ## MJ-COCO-2025 Dataset Disclaimer
 <p align="justify">
 The MJ-COCO-2025 dataset has been re-annotated using a fully automated AI-based labeling process. While significant improvements in annotation quality and performance have been achieved, the automated nature of the process means that residual labeling errors or inaccuracies may still be present. Users are advised to carefully assess the suitability of this dataset for their specific applications and tasks, considering the automated origin of the annotations.
