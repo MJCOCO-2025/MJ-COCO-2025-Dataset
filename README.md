@@ -59,14 +59,14 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
   <img src="https://github.com/user-attachments/assets/b9a09e79-89ca-4e7f-b2e3-07c542e121e9" 
        alt="Comparative results between MS-COCO and MJ-COCO datasets" 
        width="860" height="350"/>
-  <p align="center">**Figure 1:** In MS-COCO dataset, all sheep are annotated with a single label. In MJ-COCO, each sheep is annotated separately for more accurate labeling. </p>
+  <p align="center">Figure 1: In MS-COCO dataset, all sheep are annotated with a single label. In MJ-COCO, each sheep is annotated separately for more accurate labeling. </p>
 </div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/82e9fd65-7f29-4ed3-b1f5-df39611a099f" 
        alt="Comparative results between MS-COCO and MJ-COCO datasets" 
        width="860" height="350"/>
-  <p align="center">**Figure 2:** In MS-COCO dataset, some objects like a teddy bear were annotated multiple times, resulting in duplicate annotations. These errors were later corrected in the improved MJ-COCO version, which refined the labels for better accuracy.
+  <p align="center">Figure 2: In MS-COCO dataset, some objects like a teddy bear were annotated multiple times, resulting in duplicate annotations. These errors were later corrected in the improved MJ-COCO version, which refined the labels for better accuracy.
 </p>
 </div>
 
@@ -74,7 +74,7 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
   <img src="https://github.com/user-attachments/assets/4f394cd2-969e-422b-8e5b-f2ccaab6c78a" 
        alt="Comparative results between MS-COCO and MJ-COCO datasets" 
        width="860" height="350"/>
-  <p align="center">**Figure 3:** In MS-COCO dataset, there were again challenging and debatable cases where ambiguous objects were annotated as humans. These questionable annotations were later removed by MJ-COCO to improve annotation accuracy.
+  <p align="center">Figure 3: In MS-COCO dataset, there were again challenging and debatable cases where ambiguous objects were annotated as humans. These questionable annotations were later removed by MJ-COCO to improve annotation accuracy.
 </p>
 </div>
 
@@ -82,7 +82,7 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
   <img src="https://github.com/user-attachments/assets/49f6e5f1-81d1-4cd6-ba78-cd2243b10076" 
        alt="Comparative results between MS-COCO and MJ-COCO datasets" 
        width="860" height="350"/>
-  <p align="center">**Figure 4:** In MS-COCO dataset, there were again challenging and debatable cases where ambiguous objects were annotated as humans. These questionable annotations were later removed by MJ-COCO to improve annotation accuracy.
+  <p align="center">Figure 4: In MS-COCO dataset, there were again challenging and debatable cases where ambiguous objects were annotated as humans. These questionable annotations were later removed by MJ-COCO to improve annotation accuracy.
 </p>
 </div>
 
@@ -90,7 +90,7 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
   <img src="https://github.com/user-attachments/assets/d6797fbc-e5be-4916-aa0a-cad6e4f30465" 
        alt="Comparative results between MS-COCO and MJ-COCO datasets" 
        width="860" height="350"/>
-  <p align="center">**Figure 5:** In MS-COCO dataset, some localization errors occurred, such as annotating only the human face instead of person’s body. MJ-COCO later corrected these by re-localizing the annotations to include the complete object.
+  <p align="center">Figure 5: In MS-COCO dataset, some localization errors occurred, such as annotating only the human face instead of person’s body. MJ-COCO later corrected these by re-localizing the annotations to include the complete object.
 </p>
 </div>
 
@@ -98,7 +98,7 @@ Table 1: Comparison of Class-wise Annotations: MS-COCO-2017 and MJ-COCO-2025.
   <img src="https://github.com/user-attachments/assets/5c4bdf2c-2aa4-4c3d-9a57-ea8d6eab15b2" 
        alt="Comparative results between MS-COCO and MJ-COCO datasets" 
        width="860" height="350"/>
-  <p align="center">**Figure 6:** In MS-COCO dataset, some localization errors occurred, the pizza has been annotated twice with incorrect bounding boxes also. MJ-COCO later corrected these by re-localizing the annotations to include the complete object.
+  <p align="center">Figure 6: In MS-COCO dataset, some localization errors occurred, the pizza has been annotated twice with incorrect bounding boxes also. MJ-COCO later corrected these by re-localizing the annotations to include the complete object.
 </p>
 </div>
 
